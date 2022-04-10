@@ -1,0 +1,12 @@
+﻿  Airport.c
+  AirportManager.c
+  Company.c
+  Date.c
+  fileHelper.c
+C:\Users\shlom\דורון לימודים\C\HW3_Solution\HW3\fileHelper.c(12,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Flight.c
+  General.c
+  GeneralList.c
+  main.c
+  Generating Code...
+  HW3.vcxproj -> C:\Users\shlom\דורון לימודים\C\HW3_Solution\HW3\x64\Debug\HW3.exe
